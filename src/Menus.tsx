@@ -18,7 +18,7 @@ const Menus = ({ data }) => {
                 <span className="mr-3 text-gray-800 font-semibold text-[22px]">
                   {item.title}
                 </span>
-                <div className="px-2 py-1 bg-yellow-400 rounded-md text-gray-100 font-medium">
+                <div className="px-2 py-1 bg-yellow-500 rounded-md text-gray-100 font-medium">
                   {item.price}
                 </div>
               </div>
